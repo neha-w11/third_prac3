@@ -1,2 +1,6 @@
 Message uploading
+<<<<<<< HEAD
 meassage 10
+=======
+message 10
+>>>>>>> 65b3be75886c6a9e2c5e4778bf2cab7b60ff53a8
